@@ -1,4 +1,2 @@
 This is my third file and i am gonna check how to go back
 step 1 is to commit the correct file.
-
-step 2 .. adding unecessary stuff . sjdfas df.sdf asldjf[asjdf asdf]
